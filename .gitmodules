@@ -1,0 +1,3 @@
+[submodule "test-sub-repo"]
+	path = test-sub-repo
+	url = https://github.com/chrmarti/test-sub-repo.git
